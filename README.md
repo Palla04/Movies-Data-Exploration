@@ -30,10 +30,10 @@ The final outcome is a **visual dashboard** that summarizes key statistics and a
 # 3. Project Files
 
 ### Raw Data
-- **Movies.csv** – Original dataset before any processing.
+- **Movies.xlsx** – Original dataset before any processing.
 
 ### Processed Data
-- **Cleaned_Movies_Dataset.xlsx** – Dataset after preprocessing and formatting.
+- **Cleaned_Movies_Dataset.csv** – Dataset after preprocessing and formatting.
 
 ### Pivot Analysis
 - **Movies_pivot_analysis1.xlsx** – Pivot tables used for generating insights.
@@ -113,7 +113,7 @@ These visualizations help in understanding both **content trends and financial p
 
 # 7. Dashboard Preview
 
-![Dashboard Preview](Dashboard_image.png)
+![Dashboard Preview](Dashboard/Dashboard_image.png)
 
 ---
 
